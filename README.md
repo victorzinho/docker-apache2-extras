@@ -1,5 +1,5 @@
-# docker-apache2-extras
-Apache2 with extra enabled modules on top of vicgonco/apache2
+# apache2-extras
+Apache2 with extra enabled modules on top of [vicgonco/apache2](https://hub.docker.com/r/vicgonco/apache2/).
 
 ## Enabled modules
 
